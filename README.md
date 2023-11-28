@@ -2,7 +2,7 @@
 
 ** My Name is Claudia Siganur ** 👋
 
-![image of myself]()
+![image of myself](C:\Users\csiga\Documents\IMG-20220711-WA0001.jpg)
 
 
 
