@@ -2,8 +2,8 @@
 
 ** My Name is Claudia Siganur ** 👋
 
-![image of myself](![image](https://github.com/Claudia-Siganur/Claudia-Siganur/assets/152084308/6f4a8600-3f05-4952-b801-3347fe720604)
-)
+![image of myself]("C:\Users\csiga\Documents\IMG-20220711-WA0001.jpg")
+
 
 I am a web development student 💻
 
