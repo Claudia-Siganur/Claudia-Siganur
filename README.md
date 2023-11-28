@@ -1,18 +1,17 @@
-# Willkommen auf meinem Profil
+# Welcome to my profil
 
-### Hi there 👋
+** My Name is Claudia Siganur ** 👋
 
-<!--
-**Claudia-Siganur/Claudia-Siganur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image of myself](![image](https://github.com/Claudia-Siganur/Claudia-Siganur/assets/152084308/6f4a8600-3f05-4952-b801-3347fe720604)
+)
 
-Here are some ideas to get you started:
+I am a web development student 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *I've just started it*
+
+- 🌱 I’m currently learning Git, GitHub and Markdown.
+- 🌱 HTML, CSS and JavaScript will follow soon.
+
+- 📫 How to reach me: claudia-siganur@gmx.de
+
+
